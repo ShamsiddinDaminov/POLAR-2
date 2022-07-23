@@ -1,0 +1,169 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.muzqaymoq-menyu{
+    display: flex;
+    width: 1125px;
+    height: 79px;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+.muzqaymoq-oyna{
+    width: 1600px;
+    background-color:   rgba(242, 206, 218, 1);
+    ;
+    height: 862px;
+    margin: 0 auto;
+}
+.muzqaymoq-home{
+    width: 550px;
+    height: 79px;
+    margin-left: 256px;
+}
+.muzqaymoq-logo{
+    width: 79px;
+    height: 79px;
+    background-image: url(./img/logo.png);
+    background-size: cover;
+}
+.muzqaymoq-flex {
+    display: flex;
+}
+.muzqaymoq-left{
+    margin-left: 40px;
+    margin-top: 32px;
+    font-size: 14px;
+    color: black;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 700;
+    cursor: pointer;
+    text-decoration-line: none;
+}
+.muzqaymoq-left:hover{
+    color:  rgba(212, 43, 100, 13);
+}
+.muzqaymoq-button{
+    width: 200px;
+    height: 79px;
+    margin-left: 100px;
+}
+.muzqaymoq-buy{
+    width: 165px;
+    height: 49px;
+    margin-top: 16px;
+    font-size: 16px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 700;
+    background-color:  rgba(210, 49, 102, 1);
+    border: 1px solid  rgba(210, 49, 102, 1);
+    border-radius: 5px;color: white;
+}
+.muzqaymoq-buy:hover{
+    background-color:  rgb(137, 0, 46);
+    border: 1px solid #8b002e;
+}
+
+/* muzqaymoqq */
+
+.muzqaymoq-oyna1{
+    display: flex;
+}
+.muzqaymoq2{
+    width: 665px;
+    height:  364px;
+    margin-left: 254px;
+    margin-top: 159px;
+}
+
+
+
+.muzqaymoq-img{
+    width: 597px;
+    height: 597px;
+    margin-left: -130px;
+    margin-top: 50px;
+}
+.muzqaymoq-p{
+    width: 172px;
+    height: 16px;
+    font-size: 14px;
+    line-height: 15px;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+}
+.muzqaymoq-title{
+    font-family: 'Fredoka One', cursive;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 57.33px;
+    line-height: 120.5%;
+    width: 665px;
+    height: 130px;
+}
+.muzqaymoq-span{
+    color: rgba(210, 49, 102, 1);
+}
+.muzqamoq-matin{
+    width: 523px;
+    height: 78px;
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    line-height: 27px;
+    font-weight: 400;
+    opacity: 0.6;
+    margin-top: 35px;
+}
+.muzqaymoq-batin{
+    width: 165px;
+    height: 49px;
+    background-color:  #D23166;
+    color: white;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 700;
+    border: 1px solid #D23166;
+    border-radius: 5px;
+    margin-top: 50px;
+}
+.muzqaymoq-batin:hover{
+    background-color: #8b002e;
+    border:  1px solid #8b002e;
+}
+
+/* delivery */
+
+.delivery{
+    width: 1600px;
+    height: 500px;
+    border: 1px solid red;
+    margin: 0 auto;
+}
+.delevery-oyna{
+    display: flex ;
+    width: 1117px;
+    height: 250px;
+    border: 1px solid darkblue;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+.delivery-1{
+    width: 300px;
+    height: 250px;
+    border: 1px solid;
+}
+.car{
+    margin-top: 33px;
+    margin-left: 85px;
+}
+.free{
+    width: 122px;
+    height: 28px;
+    margin-left: px;
+    margin-top: 24px;
+    font-size: 20px;
+    color: black;
+    font-family: 'Hind Madurai', sans-serif;
+    font-weight: 600;
+}
